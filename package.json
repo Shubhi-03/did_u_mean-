@@ -1,0 +1,13 @@
+{
+  "name": "did_u_mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "test": "node src/test.js",
+  "start": "node src/index.js"
+  },
+  "author": "Shubhi Maurya",
+  "license": "ISC"
+}
