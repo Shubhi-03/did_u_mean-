@@ -3,7 +3,8 @@
 A lightweight, zero-dependency JavaScript utility to suggest the closest string matches using Levenshtein distance.  
 Perfect for fuzzy search, typo correction, CLI tools, and intelligent input validation.
 
-![npm](https://www.npmjs.com/package/did_u_mean) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![npm version](https://img.shields.io/npm/v/did-you-mean-helper)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -18,7 +19,7 @@ Perfect for fuzzy search, typo correction, CLI tools, and intelligent input vali
 
 ---
 
+## 📦 Installation
+
 ```bash
 npm install did-you-mean-helper
-
-
